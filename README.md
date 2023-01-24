@@ -6,7 +6,7 @@ I would later leave the US Marine Corps and pursue a career in education.  I wor
 
 We were successful!
 
-After that experience, I decided a remote career based on problem solving was for me so, two years post pandemic -- here we aer.
+After that experience, I decided a remote career based on problem solving was for me so, two years post pandemic -- here we are.  I have enjoyed Java and OOP concepts -- they make the programming organized and easier to read.  I like the power of the language as well as the multitude of use cases.  
 
 Please feel to peruse my work completed during my intesive Java Full stack bootcamp course with Skill Distillery.  Additionally, the content here is hosted on AWS so feel free to create an account on those projects and play with them.
 
