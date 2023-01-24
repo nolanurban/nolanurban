@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nolanurban
 
-I started out as a computer science major in 2000 graduating highschool at the University of Nebraska.  After 9/11 happened, I enlisted in the Marines.  I subsequently fought in Afghanistan and Iraq.
+I started out as a computer science major in 2000 at the University of Nebraska.  After 9/11 happened, I enlisted in the Marines.  I subsequently fought in Afghanistan and Iraq.
 
 I would later leave the US Marine Corps and pursue a career in education.  I worked as an educator in Nebraska, Colorado, and Iowa.  I spent much of my time focused on STEM activities to generate curiousity and intellectual drive in the students.  When the pandemic hit, I was charged with turning the entirety of what we did in the classroom into a virtual classroom in 14 days.
 
